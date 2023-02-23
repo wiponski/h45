@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "mail": "alina@mail.ru",
+    "name": "Alina",
+    "pass": "qweqwe123"
+  },
+  {
+    "id": 2,
+    "mail": "pavel@mail.ru",
+    "name": "Pavel",
+    "pass": "qweqwe123"
+  },
+  {
+    "id": 3,
+  "mail": "guli95@mail.ru",
+  "name": "Gulchapcha",
+  "pass": "qweqwe123"
+  },
+  {
+    "id": 4,
+    "mail": "roma123@mail.ru",
+    "name": "Roma",
+    "pass": "qweqwe123"
+  }
+]
